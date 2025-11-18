@@ -45,11 +45,7 @@ This repo is set up for learning and you are welcome to copy and paste the compo
 
 | Folder | Vendor Link |
 | --- | --- |
-| RP2040 | [RP2040](https://www.raspberrypi.com/products/rp2040/) <blockquote>TBD</blockquote> |
-
- * >  TBD
-
- <!-- * [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) -->
+| RP2040 | [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) <blockquote>TBD</blockquote> |
 
 
 ## Embeddable MCU Modules
