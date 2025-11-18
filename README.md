@@ -4,19 +4,8 @@ A collection of KiCAD Microcontroller templates covering various common MCUs use
 
 This repo is set up for learning and you are welcome to copy and paste the components into your own project. License is [MIT](/LICENSE.md) giving you the freadom to use it as you wish.
 
-## *(Stand-alone)* MCU Modules
 
-> :information_source: This section TBD.
->
-> e.g., Seeed Xiao
-
-## Embeddable MCU Modules
-
-> :information_source: This section TBD.
->
-> e.g., E27
-
-## *(To be)* Embedded MCUs
+## Embedded MCUs
 
 > :information_source: This section WIP.
 
@@ -24,7 +13,7 @@ This repo is set up for learning and you are welcome to copy and paste the compo
 
 <!-- This may work better as a table with core specs -->
 
-| Folder | Specification Vendor Link |
+| Folder | Vendor Link |
 | -- | -- |
 | STM32G0B1 | [STM32G0B1](https://www.st.com/en/microcontrollers-microprocessors/stm32g0x1.html) :arrow_heading_up: <blockquote>TBD</blockquote> |
 | [STM32G474](./stm32g474/) | [STM32G474](https://www.st.com/en/microcontrollers-microprocessors/stm32g4x4.html) :arrow_heading_up: |
@@ -54,11 +43,36 @@ This repo is set up for learning and you are welcome to copy and paste the compo
 
 ### Raspberry Pi
 
- * > RP2040 TBD
+| Folder | Vendor Link |
+| --- | --- |
+| RP2040 | [RP2040](https://www.raspberrypi.com/products/rp2040/) <blockquote>TBD</blockquote> |
+
+ * >  TBD
 
  <!-- * [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) -->
 
+
+## Embeddable MCU Modules
+
+> :information_source: This section TBD.
+
+| Folder | MCU | Vendor Link |
+| --- | --- | --- |
+| EByte E73 | nRF52840 | [E73](https://www.cdebyte.com/products/E73-2G4M08S1C) <blockquote>TBD</blockquote> |
+
+
+<!--
+## *(Stand-alone)* MCU Modules
+
+> :information_source: This section TBD.
+
+| Folder | MCU | Vendor Link |
+| --- | --- | --- |
+| Xiao RP2040 | RP2040 | [Xiao RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/) <blockquote>TBD</blockquote> |
+| XIAO nRF52840 | nRF52840 | [XIAO BLE](https://wiki.seeedstudio.com/XIAO_BLE/) <blockquote>TBD</blockquote> |
+-->
+
+
 ---
 
-- TBD : To Be Done
-- WIP : Work In Progress
+Made with :heart: 
